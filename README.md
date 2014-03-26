@@ -1,4 +1,4 @@
 rosetta.D10Sumchecker
 =====================
 
-D10 Sumchecker
+Ros D10 Sumchecker
